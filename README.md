@@ -16,7 +16,7 @@ RoboShop is a cloud-native, microservices-based e-commerce application deployed 
 Below is the communication between components and dependency. This dependency comes from **Development team**. Architects decide that, DevOps has no scope in this.
 
 ![alt text](roboshop.jpg)
-![alt text](roboshop-project-Architechure-Diagram.jpeg)
+![alt text](roboshop-project-Architechure-Diagram1.jpeg)
 
 ### WEB TIER:
 * Usually web tier is the one which has frontend technologies like HTML, CSS, Java Script (React/Angular/Node).
