@@ -40,10 +40,10 @@ Below is the communication between components and dependency. This dependency co
 
 ### Database Servers :
 
-* MongoDB
-* MySQL
-* Redis
-* RabbitMQ
+1. MongoDB
+2. MySQL
+3. Redis
+4. RabbitMQ
 
 # Application Services :
 
