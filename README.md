@@ -36,7 +36,7 @@ Below is the communication between components and dependency. This dependency co
 * We can use Cache servers like Redis to access the data with lightening speed.
 * We can use MQ Servers like RabbitMQ, ActiveMQ, Kafka, etc for asynchronous communication.
 
-# Server-Installation :
+# Servers-Installation :
 
 ### Database Servers :
 
