@@ -38,20 +38,20 @@ Below is the communication between components and dependency. This dependency co
 
 # Server-Installation :
 
-# Database Servers :
+### Database Servers :
 
-MongoDB
-MySQL
-Redis
-RabbitMQ
+* MongoDB
+* MySQL
+* Redis
+* RabbitMQ
 
 # Application Services :
 
-Catalogue (depends on MongoDB)
-User (depends on MongoDB and Redis)
-Cart (depends on Redis)
-Shipping (depends on MySQL and RabbitMQ)
-Payment (depends on RabbitMQ)
-Dispatch (depends on RabbitMQ)
-Frontend (Nginx/Frontend service)
+* Catalogue (depends on MongoDB)
+* User (depends on MongoDB and Redis)
+* Cart (depends on Redis)
+* Shipping (depends on MySQL and RabbitMQ)
+* Payment (depends on RabbitMQ)
+* Dispatch (depends on RabbitMQ)
+* Frontend (Nginx/Frontend service)
 
